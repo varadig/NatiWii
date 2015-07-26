@@ -1,0 +1,28 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Volumes/Work/ANE/NatiWii/osx/NatiWii/DerivedData/NatiWii/Build/Products/Debug/NatiWii.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "NatiWii-Swift.h",
+          'external-contents': "/Volumes/Work/ANE/NatiWii/osx/NatiWii/DerivedData/NatiWii/Build/Products/Debug/NatiWii.framework/Versions/A/Headers/NatiWii-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Volumes/Work/ANE/NatiWii/osx/NatiWii/DerivedData/NatiWii/Build/Products/Debug/NatiWii.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Volumes/Work/ANE/NatiWii/osx/NatiWii/DerivedData/NatiWii/Build/Intermediates/NatiWii.build/Debug/NatiWii.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

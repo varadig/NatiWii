@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2B594371-FD36-4917-9D59-D9BE3850BD83</string>
+	<key>IDESourceControlProjectName</key>
+	<string>NatiWii</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>a9500290-fe46-405b-9b9f-2d5a854fc0f3</key>
+		<string>svn+ssh://nas.local/svn/NatiWii</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>osx/NatiWii/NatiWii.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>a9500290-fe46-405b-9b9f-2d5a854fc0f3</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>a9500290-fe46-405b-9b9f-2d5a854fc0f3</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>a9500290-fe46-405b-9b9f-2d5a854fc0f3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>NatiWii</string>
+		</dict>
+	</array>
+</dict>
+</plist>
